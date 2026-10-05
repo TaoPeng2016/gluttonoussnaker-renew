@@ -6,7 +6,7 @@
 .wrapper {
     height: 780px;
     width: 1583px;
-    background-image: url('./bg.jpg');
+    background-color: #f0f7ed;
     background-size: 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -81,6 +81,8 @@
     bottom: 0;
     margin: auto;
     cursor: pointer;
+    border: 0;
+    background-color: transparent;
 }
 
 #snakeBlock {
